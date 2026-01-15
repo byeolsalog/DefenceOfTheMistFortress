@@ -1,0 +1,110 @@
+[
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 1,
+    "EVENT": 1,
+    "TIME": 0,
+    "MONSTER_ID": 900001,
+    "COUNT": 5,
+    "INTERVAL": 1.0,
+    "SPAWN_ID": 0,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 1,
+    "EVENT": 2,
+    "TIME": 2.5,
+    "MONSTER_ID": 900001,
+    "COUNT": 5,
+    "INTERVAL": 1.0,
+    "SPAWN_ID": 1,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 1,
+    "EVENT": 3,
+    "TIME": 6,
+    "MONSTER_ID": 900002,
+    "COUNT": 2,
+    "INTERVAL": 1.0,
+    "SPAWN_ID": 2,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 2,
+    "EVENT": 1,
+    "TIME": 0,
+    "MONSTER_ID": 900001,
+    "COUNT": 10,
+    "INTERVAL": 1.0,
+    "SPAWN_ID": 0,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 2,
+    "EVENT": 2,
+    "TIME": 3,
+    "MONSTER_ID": 900003,
+    "COUNT": 1,
+    "INTERVAL": 0,
+    "SPAWN_ID": 0,
+    "IS_BOSS": true
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 1,
+    "EVENT": 1,
+    "TIME": 0,
+    "MONSTER_ID": 900001,
+    "COUNT": 10,
+    "INTERVAL": 1.5,
+    "SPAWN_ID": 0,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 1,
+    "EVENT": 2,
+    "TIME": 0.7,
+    "MONSTER_ID": 900001,
+    "COUNT": 10,
+    "INTERVAL": 1.5,
+    "SPAWN_ID": 1,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 1,
+    "EVENT": 3,
+    "TIME": 3,
+    "MONSTER_ID": 900002,
+    "COUNT": 5,
+    "INTERVAL": 5,
+    "SPAWN_ID": 0,
+    "IS_BOSS": false
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 1,
+    "EVENT": 4,
+    "TIME": 5,
+    "MONSTER_ID": 900002,
+    "COUNT": 5,
+    "INTERVAL": 5,
+    "SPAWN_ID": 0,
+    "IS_BOSS": false
+  }
+]

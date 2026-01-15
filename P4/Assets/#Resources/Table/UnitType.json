@@ -1,0 +1,17 @@
+[
+  {
+    "UNIT_ID": 1,
+    "CODE": "MELEE",
+    "DISPLAY": "근접"
+  },
+  {
+    "UNIT_ID": 2,
+    "CODE": "RANGED",
+    "DISPLAY": "원거리"
+  },
+  {
+    "UNIT_ID": 4,
+    "CODE": "TRAP",
+    "DISPLAY": "설치"
+  }
+]

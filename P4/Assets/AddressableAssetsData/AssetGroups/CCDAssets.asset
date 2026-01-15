@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CCDAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: CCDAssets
+  m_GUID: e459d948caf112345913f3971fb889df
+  m_SerializeEntries:
+  - m_GUID: 0584b58780b194e44a68dd535b141078
+    m_Address: Prefabs_Battle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab_Battle
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e7391773c3b8c247851f59bbe505904
+    m_Address: Assets/#Resources/Tile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tile
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47d1f9d82054de344ba4690db2ec6370
+    m_Address: Table
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Table
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 715b0d6f93f0d884f8afdf92131c69d3
+    m_Address: Prefabs_Common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab_Common
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95f89f16b23a4b34fb6ec610397f2957
+    m_Address: FieldTable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FieldTable
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f8b9b1bea3641b4487ba5a412b14d89
+    m_Address: Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: accfddf2e8db6984b9f0bce5f44006eb
+    m_Address: Scenes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf3d1e7c13202dd4594c12dad2919540
+    m_Address: Assets/#Resources/Audio/BGM
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f848766303fc81d4cadfbd9ec9966eac
+    m_Address: Assets/#Resources/Audio/SFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbe9521d20b6c9244ad01487b3cb876c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1346a0d7d7832274891be6a6f12be1c5, type: 2}

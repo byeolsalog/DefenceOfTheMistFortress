@@ -1,0 +1,39 @@
+[
+  {
+    "MONSTER_ID": 900001,
+    "MONSTER_NAME": "Slime",
+    "PREFAB_PATH": "Prefabs_Battle/Monster/Slime/Slime.prefab",
+    "HP": 10,
+    "SPEED": 2,
+    "REWARD": 0.2,
+    "ATTACK_SPEED": 2,
+    "ATTACK": 5,
+    "DEFENCE": 0,
+    "SPRITE_PATH": "Sprites/Monster/Slime/Slime-Idle.png"
+  },
+  {
+    "MONSTER_ID": 900002,
+    "MONSTER_NAME": "Orc",
+    "PREFAB_PATH": "Prefabs_Battle/Monster/Orc/Orc.prefab",
+    "HP": 50,
+    "SPEED": 2.2,
+    "REWARD": 3,
+    "ATTACK_SPEED": 2,
+    "ATTACK": 8,
+    "DEFENCE": 5,
+     "SPRITE_PATH": "Sprites/Monster/Orc/Orc-Idle.png"
+  },
+  {
+    "MONSTER_ID": 900003,
+    "MONSTER_NAME": "OrcRider",
+    "PREFAB_PATH": "Prefabs_Battle/Monster/OrcRider/OrcRider.prefab",
+    "HP": 120,
+    "SPEED": 2.5,
+    "REWARD": 3,
+    "ATTACK_SPEED": 2,
+    "ATTACK": 20,
+    "DEFENCE": 13,
+    "SPRITE_PATH": "Sprites/Monster/OrcRider/OrcRider-Idle.png"
+  }
+  
+]

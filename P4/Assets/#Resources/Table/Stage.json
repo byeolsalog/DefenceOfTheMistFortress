@@ -1,0 +1,24 @@
+[
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "NAME": "1스테이지",
+    "GRID_W": 22,
+    "GRID_H": 9,
+    "LIFE_COUNT": 5,
+    "MAP": "Sprites/Map/map_1-1.png",
+    "MONSTERS": [900001, 900002, 900003],
+    "PLACEMENT_CAPACITY" : 6
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "NAME": "2스테이지",
+    "GRID_W": 22,
+    "GRID_H": 9,
+    "LIFE_COUNT": 5,
+    "MAP": "Sprites/Map/map_1-2.png",
+    "MONSTERS": [900001, 900002, 900003],
+    "PLACEMENT_CAPACITY" : 8
+  }
+]

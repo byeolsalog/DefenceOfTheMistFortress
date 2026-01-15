@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 1,
+    "IDENTIFIER": "yes",
+    "DISPLAY": "예"
+  },
+  {
+    "ID": 2,
+    "IDENTIFIER": "no",
+    "DISPLAY": "아니요"
+  },
+  {
+    "ID": 3,
+    "IDENTIFIER": "resource_download_compleate",
+    "DISPLAY": "리소스 다운로드를 완료했습니다.\\n게임을 재시작합니다."
+  },
+  {
+    "ID": 4,
+    "IDENTIFIER": "resource_download_fail",
+    "DISPLAY": "리소스 다운로드에 실패했습니다."
+  },
+  {
+    "ID": 5,
+    "IDENTIFIER": "cache_clear",
+    "DISPLAY": "정말로 게임 데이터를 삭제하시겠습니까?"
+  },
+  {
+    "ID": 6,
+    "IDENTIFIER": "change_account",
+    "DISPLAY": "계정 변경을 하시겠습니까?\\n(현재 익명 로그인 상태라면 계정이 초기화됩니다)"
+  },
+  {
+    "ID": 7,
+    "IDENTIFIER": "quit_game",
+    "DISPLAY": "게임을 종료하시겠습니까?"
+  },
+  {
+    "ID": 8,
+    "IDENTIFIER": "stage_num",
+    "DISPLAY": "{0} - {1}"
+  },
+  {
+    "ID": 9,
+    "IDENTIFIER": "monster_list",
+    "DISPLAY": "몬스터 등장 정보"
+  },
+  {
+    "ID": 10,
+    "IDENTIFIER": "map_data",
+    "DISPLAY": "맵 정보"
+  },
+  {
+    "ID": 11,
+    "IDENTIFIER":"entrance",
+    "DISPLAY":"입장"
+  },
+  {
+    "ID": 12,
+    "IDENTIFIER":"cost",
+    "DISPLAY":"Cost : {0}"
+  },
+  {
+    "ID": 13,
+    "IDENTIFIER":"monster_count",
+    "DISPLAY":"{0}/{1}"
+  },
+  {
+    "ID": 14,
+    "IDENTIFIER":"1-1",
+    "DISPLAY":"상류 마을"
+  },
+  {
+    "ID": 15,
+    "IDENTIFIER":"1-2",
+    "DISPLAY":"안개 숲 요새"
+  },
+  {
+    "ID": 16,
+    "IDENTIFIER":"unit_placement_capacity",
+    "DISPLAY": "Unit : {0} / {1}"
+  },
+  {
+    "ID": 17,
+    "IDENTIFIER":"close",
+    "DISPLAY": "Close"
+  },
+  {
+    "ID": 18,
+    "IDENTIFIER":"giveup_battle",
+    "DISPLAY": "정말로 전투를 포기하고 돌아가시겠습니까?"
+  }
+]

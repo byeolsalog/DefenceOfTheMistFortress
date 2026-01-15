@@ -1,0 +1,38 @@
+[
+  {
+    "SPAWN_ID": 0,
+    "TYPE": "Spawn",
+    "X": 0,
+    "Y": 3
+  },
+  {
+    "SPAWN_ID": 1,
+    "TYPE": "Spawn",
+    "X": 0,
+    "Y": 4
+  },
+  {
+    "SPAWN_ID": 2,
+    "TYPE": "Spawn",
+    "X": 0,
+    "Y": 5
+  },
+  {
+    "SPAWN_ID": 3,
+    "TYPE": "Goal",
+    "X": 21,
+    "Y": 3
+  },
+  {
+    "SPAWN_ID": 4,
+    "TYPE": "Goal",
+    "X": 21,
+    "Y": 4
+  },
+  {
+    "SPAWN_ID": 5,
+    "TYPE": "Goal",
+    "X": 21,
+    "Y": 5
+  }
+]

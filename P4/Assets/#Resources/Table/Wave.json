@@ -1,0 +1,26 @@
+[
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 1,
+    "START_TIME": 0
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 1,
+    "WAVE": 2,
+    "START_TIME": 15
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 1,
+    "START_TIME": 15
+  },
+  {
+    "DIFFICULTY": 1,
+    "STAGE": 2,
+    "WAVE": 2,
+    "START_TIME": 15
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "1",
+    "TILE_TYPE": "Grass",
+    "TAG": "Ground",
+    "ALLOWED_MASK": 5
+  },
+  {
+    "ID": "2",
+    "TILE_TYPE": "Road",
+    "TAG": "Ground, Lane",
+    "ALLOWED_MASK": 2
+  },
+  {
+    "ID": "3",
+    "TILE_TYPE": "Rock",
+    "TAG": "Obstacle",
+    "ALLOWED_MASK": 0
+  },
+  {
+    "ID": "4",
+    "TILE_TYPE": "Water",
+    "TAG": "Water",
+    "ALLOWED_MASK": 0
+  },
+  {
+    "ID": "5",
+    "TILE_TYPE": "Spawn",
+    "TAG": "Spawn",
+    "ALLOWED_MASK": 0
+  },
+  {
+    "ID": "6",
+    "TILE_TYPE": "Goal",
+    "TAG": "Goal",
+    "ALLOWED_MASK": 0
+  }
+]

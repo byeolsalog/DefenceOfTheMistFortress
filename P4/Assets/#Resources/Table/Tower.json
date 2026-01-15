@@ -1,0 +1,47 @@
+[
+  {
+    "TOWER_ID": 100001,
+    "NAME": "Knight",
+    "PREFAB_PATH": "Prefabs_Battle/Tower/Knight/Knight.prefab",
+    "UNIT_TYPE": 1,
+    "HP": 150,
+    "ATTACK": 5,
+    "DEFENCE": 15,
+    "ATTACK_SPEED": 2,
+    "ATTACK_RANGE": "0,0;0,1;0,-1;1,0;-1,0;1,1;1,-1;-1,1;-1,-1;",
+    "BLOCK_COUNT": 2,
+    "COST": 3,
+    "SPRITE_PATH": "Sprites/Tower/Knight/Knight-Idle.png",
+    "ATTACK_SFX": "Hit_Sword"
+  },
+  {
+    "TOWER_ID": 100002,
+    "NAME": "Archer",
+    "PREFAB_PATH": "Prefabs_Battle/Tower/Archer/Archer.prefab",
+    "UNIT_TYPE": 2,
+    "HP": 30,
+    "ATTACK": 16,
+    "DEFENCE": 5,
+    "ATTACK_SPEED": 2,
+    "ATTACK_RANGE": "0,0;0,1;0,-1;1,0;-1,0;1,1;1,-1;-1,1;-1,-1;0,2;0,-2;2,0;-2,0;",
+    "BLOCK_COUNT": 0,
+    "COST": 4,
+    "SPRITE_PATH": "Sprites/Tower/Archer/Archer-Idle.png",
+    "ATTACK_SFX": "Shot_Arrow"
+  },
+  {
+    "TOWER_ID": 100003,
+    "NAME": "Barrel",
+    "PREFAB_PATH": "Prefabs_Battle/Tower/Trap/Barrel/Barrel.prefab",
+    "UNIT_TYPE": 4,
+    "HP": 1,
+    "ATTACK": 30,
+    "DEFENCE": 0,
+    "ATTACK_SPEED": 1,
+    "ATTACK_RANGE": "0,0;0,1;0,-1;1,0;-1,0;1,1;1,-1;-1,1;-1,-1;",
+    "BLOCK_COUNT": 0,
+    "COST": 4,
+    "SPRITE_PATH": "Sprites/Tower/Trap/Barrel.png",
+    "ATTACK_SFX": "ExplosionSFX"
+  }
+]
